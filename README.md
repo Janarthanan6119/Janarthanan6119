@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Janarthanan
-- 🌱 I’m currently Wroking as a Technilogy Specialist in Consensus Academy
+- 🌱 I’m currently Wroking as a Software Developer in QuantumNique Solutions
 - 📫 How to reach me janarthananr07@gmail.com...
 
 <!---
